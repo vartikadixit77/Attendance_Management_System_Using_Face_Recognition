@@ -70,6 +70,15 @@ To make it easy, here is the content for your *requirements.txt* file:
 You can install all of these requirements by running the following command:
 
 ---
+## Modifications and Contributions 🛠️  
+If you would like to make any modifications or improvements to the project, feel free to *fork* the repository or *clone* it to your local machine. You can submit a *pull request* with your changes. Contributions are always welcome!  
+
+- To fork the project, click the *Fork* button at the top-right corner of this page on GitHub.  
+- If you want to suggest changes or improvements, feel free to open an *issue*.
+
+Thank you for your interest in contributing! 🚀
+---
+
 ## Thanking Note 🙏  
 I would like to thank my mentor, Aditya Ardak, for all the help and guidance during this project. Your session was very helpful and full of useful information. A big thank you to the team for giving me the opportunity to work on this project and learn so much.
 
