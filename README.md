@@ -4,8 +4,7 @@
 
 ## Project Description  
 This project, *Attendance Management System using Face Recognition*, uses facial recognition technology to make attendance tracking easier. 
-It captures and stores facial data, then compares it with the data in the database to mark attendance automatically. This system helps reduce the
-need for manual work, making it more efficient for schools or companies.
+It captures and stores facial data, then compares it with the data in the database to mark attendance automatically. This system helps reduce the need for manual work, making it more efficient for schools or companies.
 
 ### Key Features:  
 - 🏫 Real-time facial recognition to take attendance.  
@@ -46,13 +45,6 @@ To run this project, you need to install the following libraries:
 5. *pandas* - For handling and storing attendance data in a structured way.
 6. *datetime* - For working with timestamps.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-- Python 3.x installed
-- pip package manager installed
-- Git installed on your system (verify with git --version)
-
 ---
 
 ## Installation
@@ -88,9 +80,7 @@ cd your-repo-name
 3. Follow the instructions displayed in the terminal or interface.
 ---
 ## Modifications and Contributions 🛠️  
-If you would like to make any modifications or improvements to the project, feel free to *fork* the repository or *clone* it to your local machine. You can submit a *pull request* with your changes. Contributions are always welcome!  
-
-- To fork the project, click the *Fork* button at the top-right corner of this page on GitHub.  
+If you would like to make any modifications or improvements to the project, feel free to *fork* the repository or *clone* it to your local machine. You can submit a *pull request* with your changes.
 - If you want to suggest changes or improvements, feel free to open an *issue*.
 
 ## Thank you for your interest in contributing! 🚀
