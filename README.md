@@ -18,23 +18,6 @@ need for manual work, making it more efficient for schools or companies.
 You can follow me on LinkedIn for updates, connections, and endorsements: [Vignesh Ramesh](https://www.linkedin.com/in/vigneshramesh-13j01).
 
 ---
-
-## Image Section 🖼️  
-Here are some images showing the system in action:  
-
-### Image 1:  
-![Project GUI](https://drive.google.com/file/d/1XXZNfxdxBfTWiOaJRBS5qYCCZRqb125h/view?usp=sharing)
-Caption: The system capturing a face for attendance.
-
-### Image 2:  
-![Project Screenshot 2](https://via.placeholder.com/600x300?text=Project+Image+2)  
-Caption: The interface showing the attendance list after recognition.
-
-### Image 3:  
-![Project Screenshot 3](https://via.placeholder.com/600x300?text=Project+Image+3)  
-Caption: Error handling in case the face is not recognized.
-
----
 ### Steps for Setup:  ⚙📂
 1. *Download as ZIP*:  
    For the best experience, you can download the project as a ZIP file.
@@ -81,8 +64,9 @@ Before you begin, ensure you have met the following requirements:
    cd /path/to/your/folder
 
 3. Clone the repository:
-git clone
-
+   ```bash
+    git clone https://github.com/Vicky-codes17/Attendance_Management_System_Using_Face_Recognition.git
+  
 
 ## Install Dependencies
 1. Navigate into the project directory:
@@ -96,8 +80,9 @@ pip install pymysql
 
 ## Usage
 1. Run the main script:
-python main.py
-2. Follow the instructions displayed in the terminal or interface.
+    ```bash
+    python main.py
+3. Follow the instructions displayed in the terminal or interface.
 ---
 ## Modifications and Contributions 🛠️  
 If you would like to make any modifications or improvements to the project, feel free to *fork* the repository or *clone* it to your local machine. You can submit a *pull request* with your changes. Contributions are always welcome!  
@@ -105,10 +90,8 @@ If you would like to make any modifications or improvements to the project, feel
 - To fork the project, click the *Fork* button at the top-right corner of this page on GitHub.  
 - If you want to suggest changes or improvements, feel free to open an *issue*.
 
-Thank you for your interest in contributing! 🚀
----
-
-## Thanking Note 🙏  
+## Thank you for your interest in contributing! 🚀
+--- 
 I would like to thank my mentor, Aditya Ardak, for all the help and guidance during this project. Your session was very helpful and full of useful information. A big thank you to the team for giving me the opportunity to work on this project and learn so much.
 
 ---
