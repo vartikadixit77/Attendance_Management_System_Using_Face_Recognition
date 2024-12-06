@@ -75,8 +75,6 @@ cd your-repo-name
 3. Install required dependencies using pip:
     ```bash
    pip install -r requirements.txt
-
-     ```bash
    pip install pymysql
 
 5. Make sure create a SefileImages and TrainingImage 📂 Folder for saving the images.
