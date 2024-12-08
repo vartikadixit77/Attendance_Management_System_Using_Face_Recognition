@@ -14,7 +14,7 @@ It captures and stores facial data, then compares it with the data in the databa
 ---
 
 ## LinkedIn Page 🌐  
-You can follow me on LinkedIn for updates, connections, and endorsements: [Vignesh Ramesh](https://www.linkedin.com/in/vigneshramesh-13j01).
+You can follow me on LinkedIn for updates, connections, and endorsements: [Vartika Dixit](https://www.linkedin.com/in/vartika07).
 
 ---
 ### Steps for Setup:  ⚙📂
@@ -57,7 +57,7 @@ To run this project, you need to install the following libraries:
 
 3. Clone the repository:
    ```bash
-    git clone https://github.com/Vicky-codes17/Attendance_Management_System_Using_Face_Recognition.git
+    git clone https://github.com/Vartikadixit77/Attendance_Management_System_Using_Face_Recognition.git
   
 
 ## Install Dependencies
